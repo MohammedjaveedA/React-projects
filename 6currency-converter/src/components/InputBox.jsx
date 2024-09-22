@@ -1,4 +1,4 @@
-import React,{useId} from 'react'
+import React,{useId} from 'react' //this is a custom hook
 
 function InputBox({
     label,
